@@ -85,7 +85,7 @@ fun GameScreen() {
                 .background(GrayBackground),
             contentAlignment = Alignment.Center
         ) {
-
+            CaroBoard()
         }
 
         //Footer
