@@ -217,9 +217,9 @@ fun WinHorizontalLine3() {
     }
 }
 
-//Cross win
+//DIAGONAL
 @Composable
-fun CrossWin1() {
+fun Diagonal1() {
     Canvas(
         modifier = Modifier
             .size(300.dp)
@@ -237,7 +237,7 @@ fun CrossWin1() {
 }
 
 @Composable
-fun CrossWin2() {
+fun Diagonal2() {
     Canvas(
         modifier = Modifier
             .size(300.dp)
@@ -269,6 +269,6 @@ fun CaroBoardPrev() {
     //WinHorizontalLine2()
     //WinHorizontalLine3()
 
-    //CrossWin1()
-    //CrossWin2()
+    //Diagonal1()
+    //Diagonal2()
 }
