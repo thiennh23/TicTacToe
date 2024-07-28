@@ -8,5 +8,5 @@ A simple and fun Tic Tac Toe game built using Jetpack Compose in Android Studio.
 * Responsive Layout: Optimized for both portrait and landscape orientations.
 
 # Built With
-* Jetpack Compose - Modern toolkit for building native Android UI
-* Kotlin - Programming language for Android development
+* [Jetpack Compose](https://developer.android.com/compose) - Modern toolkit for building native Android UI
+* [Kotlin](https://kotlinlang.org/) - Programming language for Android development
